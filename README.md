@@ -1,8 +1,18 @@
-### Hi there 👋、
+### Hey there 👋、
 
-You may want to take a look of my [personal website](https://darxs.com.cn/en/)
+You may want to take a tour of my [personal website](https://darxs.com.cn/en/)
 
 你也许想看看我的[个人主页](https://darxs.com.cn)
+
+#### To-do list
+- [x] 端到端加密，用于传递隐私数据的网页
+- [x] $\LaTeX$ 渲染的刷题网站
+- [ ] 使用 iPhone 前置摄像头给 MacBook 外接显示器做色彩校正的应用程序
+- [ ] 能将打印（手写）的数学公式转换为 $\LaTeX$ 公式的 OCR 模型
+
+If you have any interesting or useful ideas, welcome to communicate with me✨
+
+如果你有任何有趣或有用的想法，欢迎与我交流✨
 
 <!--
 **Dar-Xs/Dar-Xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
