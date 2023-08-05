@@ -7,13 +7,13 @@ You may want to take a tour of my [personal website](https://darxs.com.cn/en/)
 #### To-do list
 - [ ] 端到端加密，用于传递隐私数据的网页，
   - [x] 基础功能
-  - [ ] 支持音视频通话
-  - [ ] 重新设计UI/UX
-- [ ] $\LaTeX$ 渲染的刷题网站
-  - [x] 基础功能
+  - [ ] 支持音视频通话，重新设计UI/UX
+- [ ] LaTeX 渲染的刷题网站
+  - [x] 基础功能，高等数学刷题
   - [ ] 支持图片、公式、文字并存
-  - [ ] 将现有图片的题目全部转换
-- [ ] 能将打印（手写）的数学公式转换为 $\LaTeX$ 公式的 OCR 模型
+  - [ ] 将现有纯图片的题目全部经过 OCR 识别后转换为含 LaTeX 的文本
+  - [ ] 线性代数、概率统计、复变函数
+- [ ] 能将打印（手写）的数学公式转换为 LaTeX 公式的 OCR 模型
 - [ ] 使用 iPhone 前置摄像头给 MacBook 外接显示器做色彩校正的应用程序
 
 If you have any interesting or useful ideas, welcome to communicate with me✨
