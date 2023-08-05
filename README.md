@@ -5,10 +5,13 @@ You may want to take a tour of my [personal website](https://darxs.com.cn/en/)
 你也许想看看我的[个人主页](https://darxs.com.cn)
 
 #### To-do list
-- [x] 端到端加密，用于传递隐私数据的网页
-- [x] $\LaTeX$ 渲染的刷题网站
-- [ ] 使用 iPhone 前置摄像头给 MacBook 外接显示器做色彩校正的应用程序
+- [x] 端到端加密，用于传递隐私数据的网页，基础功能
+- [ ] 端到端加密，用于传递隐私数据的网页，支持音视频通话，重新设计UI/UX
+- [x] $\LaTeX$ 渲染的刷题网站，基础功能
+- [ ] $\LaTeX$ 渲染的刷题网站，支持图片、公式、文字并存
+- [ ] $\LaTeX$ 渲染的刷题网站，将现有图片的题目全部转换
 - [ ] 能将打印（手写）的数学公式转换为 $\LaTeX$ 公式的 OCR 模型
+- [ ] 使用 iPhone 前置摄像头给 MacBook 外接显示器做色彩校正的应用程序
 
 If you have any interesting or useful ideas, welcome to communicate with me✨
 
