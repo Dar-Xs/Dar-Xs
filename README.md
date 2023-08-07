@@ -14,11 +14,12 @@ You may want to take a tour of my [personal website](https://darxs.com.cn/en/)
   - [ ] 将现有纯图片的题目全部经过 OCR 识别后转换为含 LaTeX 公式的文本
   - [ ] 线性代数、概率统计、复变函数
 - [ ] LaTeX 公式 OCR 模型
-- [ ] 超多人在线的web游戏 (类似于 1,2,switch 100 player mode)
+- [ ] 超多人在线的 Web 游戏 (类似于 1,2,switch 100 player mode)
 - [ ] 简易色彩校正程序
+- [ ] 最强 Apple Watch 开源音乐播放器
 - [ ] 语音识别模型
 - [ ] 视频(动漫)插帧模型
-- [ ] 光场成像&光场显示器配套硬件设计&软件实现
+- [ ] 光场成像 & 光场显示器配套硬件设计 & 软件实现
 
 If you have any interesting or useful ideas, welcome to communicate with me✨~
 
