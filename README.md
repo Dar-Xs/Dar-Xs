@@ -18,7 +18,6 @@ You may want to take a tour of my [personal website](https://darxs.com.cn/en/)
 - [ ] 简易色彩校正程序
 - [ ] 最强 Apple Watch 开源音乐播放器
 - [ ] 语音识别模型
-- [ ] 视频(动漫)插帧模型
 - [ ] 光场成像 & 光场显示器配套硬件设计 & 软件实现
 
 If you have any interesting or useful ideas, welcome to communicate with me✨~
@@ -34,6 +33,7 @@ to-do list (hidden detail)
   - [ ] 实时手写识别（带有笔画时序数据）
 - [ ] 能根据音色，将多人音频转为文字的语音识别模型
   - [ ] 人声分离模型
+- [ ] 视频(动漫)插帧模型
 
 **Dar-Xs/Dar-Xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
